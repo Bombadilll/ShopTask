@@ -1,5 +1,6 @@
 ### This is an online delivery application  of products to the specified address.
 ### The technologies used are React.js,Express,MongoDB.
+Link on deployment project:https://shop-task-two.vercel.app/
 
 ___
 
@@ -40,7 +41,7 @@ ______
 ```bash
 
 # development mode
-$ npm run dev
+$ npm run server
 
 # production mode
 $ npm run start
